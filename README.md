@@ -9,6 +9,5 @@
 我们已经认识{{love_day.DATA}}天了 🦕⁼³₌₃
 
 {{birthday1.DATA}} 
-{{birthday2.DATA}} 
 {{note_en.DATA}} 
 {{note_ch.DATA}}
