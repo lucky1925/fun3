@@ -10,6 +10,5 @@
 
 {{birthday1.DATA}} 
 {{birthday2.DATA}} 
-
 {{note_en.DATA}} 
 {{note_ch.DATA}}
